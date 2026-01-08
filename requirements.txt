@@ -7,3 +7,4 @@ ipykernel
 jupyterlab
 ipywidgets
 scipy
+pymc
